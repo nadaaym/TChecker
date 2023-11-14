@@ -2,5 +2,4 @@
 Content Enrichment Deep Learning Model for Fake News Detection from social media
 
 you can find the code on this link
-https://colab.research.google.com/gist/nadaaym/1efa8701d911e0d4fa2ed0181a09da63/tchecker.ipynb
-
+https://colab.research.google.com/gist/nadaaym/6ecde93151bfd4ca43d8d772863543b3/tchecker.ipynb
